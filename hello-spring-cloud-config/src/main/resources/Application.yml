@@ -9,9 +9,9 @@ Spring:
 #如果此处是gitlab ，git.uri 需要在结尾加上 .git，GitHub 则不用
 #格式         http://ip:port/{label}/{application}-{profile}.yml
           uri: https://github.com/jianwei/spring-cloud-config
-          search-paths:
-          username:
-          password:
+          search-paths: smartbusinessRespo
+          username: jianweipeng
+          password: pjw2009474
 
 
 
